@@ -1,4 +1,4 @@
-# Laravel News Vue JS SPA Tutorial
+# Laravel News Vue JS SPA Tutorial.
 
 - Added pretty import paths.
 - Added validation.
